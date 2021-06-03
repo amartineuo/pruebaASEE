@@ -1,0 +1,14 @@
+{
+  "users": [
+      { "id": 1, "username": "Usuario 1", "email": "usuario1@gmail.com", "password": "12443"},
+      { "id": 2, "username": "Usuario 2", "email": "usuario2@gmail.com", "password": "12443"},
+      { "id": 3, "username": "Usuario 3", "email": "usuario3@gmail.com", "password": "12443"}
+  ],
+  "books": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
